@@ -1,0 +1,14 @@
+{
+  "name": "djs-revamped",
+  "version": "1.0.0",
+  "description": "A simple wrapper for discord.js",
+  "main": "index.js",
+  "keywords": [
+    "discord.js",
+    "discord",
+    "discord-bots",
+    "djs"
+  ],
+  "author": "Rafe Cyber (rafecyber@gmail.com)",
+  "license": "RC Custom License 1"
+}
